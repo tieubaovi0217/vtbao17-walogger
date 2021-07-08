@@ -1,7 +1,7 @@
 # DEMO
 
 ```
-import WALogger from "./index";
+import { WALogger } from '@vtbao17/walogger';
 
 const logger = new WALogger();
 
